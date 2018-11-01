@@ -15,6 +15,7 @@
     "mocha": "3.5.0"
   },
   "dependencies": {
+    "growl": "^1.10.0",
     "knex": "^0.13.0",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
