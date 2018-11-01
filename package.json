@@ -15,12 +15,14 @@
     "mocha": "3.5.0"
   },
   "dependencies": {
+    "debug": "^2.6.9",
     "growl": "^1.10.0",
     "knex": "^0.13.0",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.2.1",
     "pg": "^7.1.2",
-    "sqlite3": "^4.0.3"
+    "sqlite3": "^4.0.3",
+    "superagent": "^3.7.0"
   }
 }
