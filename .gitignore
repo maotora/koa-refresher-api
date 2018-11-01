@@ -2,5 +2,3 @@
 node_modules/
 npm-debug.log
 dev.sqlite3
-src/server/db/migrations
-src/server/db/seeds
